@@ -4,4 +4,5 @@
 3. choose the specific category of your work you want to do if you are bored.
 4. Random work is assigned in a specific field based on your interest.
 
+![Alt text](/relative/path/to/output.png?raw=true "ScreenShot_Result")
 
